@@ -1,0 +1,20 @@
+# ninja log v5
+48	7844	7263216253934837	CMakeFiles/DatesetPool.dir/main.cpp.obj	24df3a6d7b71c014
+2	168	7263270017879921	build.ninja	396fcdcaa6b90850
+8	2158	7263263058685301	CMakeFiles/DatesetPool.dir/src/test/test.cpp.obj	9c0406ac01438950
+4	200	7263263324341575	DatesetPool.exe	86a718dd75631bfa
+51	7940	7263216255034947	CMakeFiles/DatesetPool.dir/src/include/ConnectionPool.cpp.obj	813319e085c1eb1
+4	1966	7263263056755148	CMakeFiles/DatesetPool.dir/src/include/MysqlConn.cpp.obj	164a1d1b86a12ef3
+10	3609	7263278265983681	CMakeFiles/DatesetPool.dir/src/test/test.cpp.obj	9c0406ac01438950
+5	3632	7263278266353875	CMakeFiles/DatesetPool.dir/src/include/ConnectionPool.cpp.obj	813319e085c1eb1
+3633	4201	7263278272015729	DatesetPool.exe	86a718dd75631bfa
+5	2767	7263279474337625	CMakeFiles/DatesetPool.dir/src/test/test.cpp.obj	9c0406ac01438950
+2783	2993	7263279476577624	DatesetPool.exe	86a718dd75631bfa
+4	2545	7263280224409180	CMakeFiles/DatesetPool.dir/src/test/test.cpp.obj	9c0406ac01438950
+2546	2745	7263280226399172	DatesetPool.exe	86a718dd75631bfa
+6	2464	7263281058581747	CMakeFiles/DatesetPool.dir/src/include/ConnectionPool.cpp.obj	813319e085c1eb1
+2465	2685	7263281060761500	DatesetPool.exe	86a718dd75631bfa
+7	2522	7263281878707136	CMakeFiles/DatesetPool.dir/src/test/test.cpp.obj	9c0406ac01438950
+2523	2723	7263281880697129	DatesetPool.exe	86a718dd75631bfa
+6	2157	7263283827987020	CMakeFiles/DatesetPool.dir/src/test/test.cpp.obj	9c0406ac01438950
+2158	2353	7263283829917014	DatesetPool.exe	86a718dd75631bfa
