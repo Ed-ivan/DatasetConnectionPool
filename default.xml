@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+    <remote fetch="https://gitee.com/openharmony/" name="origin" review="https://openharmony.gitee.com/openharmony/"/>
+    <default remote="origin" revision="master" sync-j="4" />
+    <project name="graphic_utils" path="foundation/graphic/utils"  />
+</manifest>
